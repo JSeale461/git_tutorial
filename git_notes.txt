@@ -1,0 +1,6 @@
+git notes:
+
+git add {filename}
+git rm --cached index.html
+ git commit -m "commit_editmsg"
+ git commit -m 'changes 2'
