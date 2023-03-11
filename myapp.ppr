@@ -1,0 +1,63 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.CompileOnBackground=0
+Compilator.ProgSaveAll=0
+Compilator.ProgRunSelection=0
+Compilator.LogType=0
+Compilator.LogEncoding=0
+DefaultDir=C:\myapp
+DefaultCP=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+HTServer=localhost
+Extensions=*.*
+[Project tree]
+myapp
+	+myapp
+		+dir2
+			app1.js
+		-dir1
+		app.js
+		index.html
+		index.html
+		.git\COMMIT_EDITMSG
+		app.js
+		git_notes.txt
+		log.txt
+		.gitignore
+[Open project files]
+0=index.html
+1=.git\COMMIT_EDITMSG
+2=app.js
+3=git_notes.txt
+4=log.txt
+5=.gitignore
+6=app1.js
+[Selected Project Files]
+Main=
+Selected=.gitignore
+[index.html]
+TopLine=1
+Caret=20,9
+[.git\COMMIT_EDITMSG]
+TopLine=1
+Caret=1,2
+[app.js]
+TopLine=1
+Caret=22,1
+[git_notes.txt]
+TopLine=1
+Caret=27,6
+[log.txt]
+TopLine=1
+Caret=1,2
+[.gitignore]
+TopLine=1
+Caret=1,3
+[app1.js]
+TopLine=1
+Caret=11,1
